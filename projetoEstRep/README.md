@@ -2,8 +2,8 @@
 
 ## 1. Identificação
 
-- **Aluno(a):** _[seu nome]_
-- **Disciplina:** _[nome da disciplina]_
+- **Aluno(a):** _Roberto Rosado_
+- **Disciplina:** _Algoritmos e Pensamento Comnputacional_
 - **Professora:** Profa. Karla Sartin
 - **Título do projeto:** Sistema de Reserva de Poltronas
 
